@@ -7,6 +7,7 @@ p {
 h1 {
     font-size: 70px;
     font-weight: 200;
+    font-family:'Times New Roman', Times, serif;
 }
 
 h2 {
@@ -42,7 +43,6 @@ h3.bagua {
     background-image: url("resources/HomeImage.jpg"); 
     color: white;
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
     padding-bottom: 50px;
 }
 
